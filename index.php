@@ -80,7 +80,7 @@
 					<div class="text list_1_of_2">
 						  <h3>Doctors Login</h3>
 
-						  <div class="button"><span><a href="hms/doctor/">Click Here</a></span></div>
+						  <div class="button"><span><a href="hms/doctor/index.php">Click Here</a></span></div>
 					</div>
 				</div>
 
